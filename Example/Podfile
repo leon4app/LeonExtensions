@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LeonExtensions_Example' do
+  pod 'LeonExtensions', :path => '../'
+
+  target 'LeonExtensions_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
