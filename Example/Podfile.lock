@@ -1,0 +1,16 @@
+PODS:
+  - LeonExtensions (0.1.0)
+
+DEPENDENCIES:
+  - LeonExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  LeonExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LeonExtensions: 8e504d070c46ebc1377dc93c04760e6cab710f2b
+
+PODFILE CHECKSUM: 27241153ccaf80ecbaca68656c5b73de5a0d1c99
+
+COCOAPODS: 1.5.3
